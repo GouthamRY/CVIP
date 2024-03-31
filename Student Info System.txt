@@ -166,7 +166,7 @@ public class StudentInformationSystem {
         StudentInformationSystem sis = new StudentInformationSystem();
 
         // Add some initial students and courses (you can extend this part)
-        sis.addStudent(new Student("1", "Chaitanya", 20, "chaitu@gmail.com"));
+        sis.addStudent(new Student("1", "Goutham", 20, "goutham.banty720@gmail.com"));
         sis.addStudent(new Student("2", "Nani", 21, "nani@gmail.com"));
         sis.addCourse(new Course("C1", "Mathematics"));
         sis.addCourse(new Course("C2", "Computer-Science"));
